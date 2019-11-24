@@ -1,0 +1,6 @@
+C:\Users\rahul.vappala\source\repos\Aggregate\bin\Debug\Aggregate.exe.config
+C:\Users\rahul.vappala\source\repos\Aggregate\bin\Debug\Aggregate.exe
+C:\Users\rahul.vappala\source\repos\Aggregate\bin\Debug\Aggregate.pdb
+C:\Users\rahul.vappala\source\repos\Aggregate\obj\Debug\Aggregate.csprojAssemblyReference.cache
+C:\Users\rahul.vappala\source\repos\Aggregate\obj\Debug\Aggregate.exe
+C:\Users\rahul.vappala\source\repos\Aggregate\obj\Debug\Aggregate.pdb
